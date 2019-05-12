@@ -1,6 +1,6 @@
 # Applied Data Science with Python
 
-![logo](logo.png)
+![logo](university_logo.jpg)
 
 [Specialization Link](https://www.coursera.org/specializations/data-science-python?)
 
